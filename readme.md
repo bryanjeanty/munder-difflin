@@ -4,6 +4,9 @@ The Munder Difflin project centered around developing a standard landing page fo
 
 <img src='http://www.pitt.edu/~wke4/logos/munderdifflinlogo.jpg' style='width: 100%'>
 
+#### Link to Project on Github Pages: 
+--> https://bryanjeanty.github.io/munder-difflin/
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Technologies Used](#technologies)
